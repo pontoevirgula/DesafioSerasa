@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Personagens Marvel</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+
+    <string name="favorites">Favoritos</string>
+    <string name="confirm_character_exclude">Gostaria de excluir esse personagem da lista de favoritos?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="exclude_success">Personagem excluído com sucesso!</string>
+    <string name="home">Home</string>
+    <string name="character_saved">Personagem inserido com sucesso!</string>
+    <string name="error_bookmark">Erro ao tentar favoritar personagem.</string>
+    <string name="there_are_no_characters">Não há personagens favoritados.</string>
+    <string name="connection_failed">Falha na conexão com a internet.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bookmarking_error">Erro ao inserir na lista de favoritos.</string>
+    <string name="bookmarking_success">Item favoritado com sucesso.</string>
+</resources>
